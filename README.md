@@ -16,9 +16,9 @@
 - 📄 Know about my experiences [https://t.ly/tousifinity](https://t.ly/tousifinity)
 
 
+<a src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></a>
 
 <h3 align="left">Connect with me:</h3>
-(<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><)
 <p align="left">
 <a href="https://twitter.com/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tousifinity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tousifinity" height="30" width="40" /></a>
