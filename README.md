@@ -5,7 +5,7 @@
 
 - 🧑‍💻 I’m currently working on **Machine Learning and AI**
 
-- 🌱 I’m currently learning **Python, CTF, App Development**
+- ⏳ I’m currently learning **Python, CTF, App Development**
 
 - 👨‍💻 All of my projects are available at [www.tousifinity.com](https://www.tousifinity.com/)
 
