@@ -7,13 +7,13 @@
 
 - ⏳ I’m currently learning **Python, CTF, App Development**
 
-- 👨‍💻 All of my projects are available at [https://tousifinity.github.io/tousifinity/](https://tousifinity.github.io/tousifinity/)
+- 👨‍💻 Personal Portfolio [https://tousifinity.github.io/tousifinity/](https://tousifinity.github.io/tousifinity/)
 
 - 💬 Ask me about **Cyber Security, ML, AI**
 
-- 📫 How to reach me **tousifinity@gmail.com**
+- 📫 Reach me at **tousifmahmudemon@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/tousifinity](https://t.ly/tousifinity)
+<!-- - 📄 Know about my experiences [https://t.ly/tousifinity](https://t.ly/tousifinity) -->
 
 
 <h3 align="left">Connect with me:</h3>
