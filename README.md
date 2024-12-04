@@ -7,7 +7,7 @@
 
 - ⏳ I’m currently learning **Python, CTF, App Development**
 
-- 👨‍💻 All of my projects are available at [www.tousifinity.com](https://www.tousifinity.com/)
+- 👨‍💻 All of my projects are available at [https://tousifinity.github.io/tousifinity/](https://tousifinity.github.io/tousifinity/)
 
 - 💬 Ask me about **Cyber Security, ML, AI**
 
