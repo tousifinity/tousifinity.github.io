@@ -22,8 +22,8 @@
 <a href="https://linkedin.com/in/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tousifinity" height="30" width="40" /></a>
 <a href="https://fb.com/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tousifinity" height="30" width="40" /></a>
 <a href="https://instagram.com/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tousifinity" height="30" width="40" /></a>
-<a href="https://judge.beecrowd.com/en/profile/429910" target="blank"><img align="center" src="https://beecrowd.com/wp-content/uploads/2024/03/Main-Logo-beecrowd-V.svg" alt="tousifinity" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tousifinity" height="30" width="40" /></a>
+<a href="https://judge.beecrowd.com/en/profile/429910" target="blank"><img align="center" src="https://beecrowd.com/wp-content/uploads/2024/03/Main-Logo-beecrowd-H.svg" alt="tousifinity" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tousifinity" height="30" width="40" /></a> -->
 <a href="https://tryhackme.com/p/tousifinity" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tousifinity" height="30" width="40" /></a>
  
 </p>
