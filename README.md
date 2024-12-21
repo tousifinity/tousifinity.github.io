@@ -24,6 +24,7 @@
 <a href="https://instagram.com/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tousifinity" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tousifinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tousifinity" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/tousifinity" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tousifinity" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,5 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tousifinity&show_icons=true&locale=en" alt="tousifinity" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tousifinity&" alt="tousifinity" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tousifinity" alt="tousifinity" /></a> </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=918772" style='border:none;'></iframe>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tousifinity" alt="tousifinity" /></a> </p> -->
 
